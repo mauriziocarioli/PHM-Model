@@ -3,6 +3,7 @@
 .*
 !/.gitignore
 !/.gitattributes
+!/.caseproject
 
 # Compiled source #
 ###################
@@ -43,4 +44,3 @@ ehthumbs.db
 Thumbs.db
 *~
 *.~lock*
-*.iml

@@ -13,6 +13,8 @@
     <environment-entries/>
     <configurations/>
     <required-roles/>
-    <remoteable-classes/>
+    <remoteable-classes>
+        <remoteable-class>com.health_insurance.phm_model.Trigger</remoteable-class>
+    </remoteable-classes>
     <limit-serialization-classes>true</limit-serialization-classes>
 </deployment-descriptor>

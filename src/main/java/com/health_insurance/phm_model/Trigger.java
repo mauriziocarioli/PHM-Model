@@ -5,6 +5,7 @@ import java.io.Serializable;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
+import org.kie.api.remote.Remotable;
 import org.kie.api.definition.type.Description;
 import org.kie.api.definition.type.Label;
 
@@ -12,6 +13,7 @@ import org.kie.api.definition.type.Label;
  *
  * Properties of a trigger.
  */
+@Remotable
 @Label("Trigger")
 @Description("The Trigger event.")
 public class Trigger implements Serializable {

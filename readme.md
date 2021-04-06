@@ -1,10 +1,10 @@
 A Population Health Management Domain Model
 =
 
-Used by [PHM-Processes](https://gitlab.consulting.redhat.com/ba-nacomm/population-health-management-demo/phm-processes/-/tags/v2.0.0-PAM)
+Used by [PHM-Processes](https://gitlab.consulting.redhat.com/ba-nacomm/population-health-management-demo/phm-processes/-/tags/v3.0.0.redhat)
 
-[UML Diagram](PHM-Model.plantuml)
+[UML Diagram](docs/diagrams/src/PHM-Model.plantuml)
 
-[Another UML Diagram](PHM-Model.mdj)
+[Another UML Diagram](docs/diagrams/src/PHM-Model.mdj)
 
-[Javadocs](doc/)
+[Javadocs](docs/index.html)

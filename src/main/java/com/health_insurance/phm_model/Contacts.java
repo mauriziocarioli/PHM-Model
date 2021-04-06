@@ -11,7 +11,7 @@ import java.util.LinkedHashMap;
 
 /**
  * Hash map of the actor's contacts.
- * 
+ *
  */
 @Label("Contacts")
 @Description("Contacts.")

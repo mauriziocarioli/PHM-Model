@@ -1,6 +1,6 @@
 @startuml
 
-title __PHM_MODEL's Class Diagram__
+title __PHM_MODEL's Class Diagram__\n
 
   namespace com.health_insurance.phm_model {
     class com.health_insurance.phm_model.Action {
@@ -38,7 +38,7 @@ title __PHM_MODEL's Class Diagram__
         + toString()
     }
   }
-
+  
 
   namespace com.health_insurance.phm_model {
     class com.health_insurance.phm_model.Contact {
@@ -50,7 +50,7 @@ title __PHM_MODEL's Class Diagram__
         + toString()
     }
   }
-
+  
 
   namespace com.health_insurance.phm_model {
     class com.health_insurance.phm_model.Contacts {
@@ -59,7 +59,7 @@ title __PHM_MODEL's Class Diagram__
         + toString()
     }
   }
-
+  
 
   namespace com.health_insurance.phm_model {
     class com.health_insurance.phm_model.Trigger {
@@ -70,7 +70,7 @@ title __PHM_MODEL's Class Diagram__
         + toString()
     }
   }
-
+  
 
   com.health_insurance.phm_model.Action .up.|> java.io.Serializable
   com.health_insurance.phm_model.Contact .up.|> java.io.Serializable
