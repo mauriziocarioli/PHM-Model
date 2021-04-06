@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.health_insurance.phm_model","l":"Action"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.health_insurance.phm_model","l":"Contact"},{"p":"com.health_insurance.phm_model","l":"Contacts"},{"p":"com.health_insurance.phm_model","l":"Trigger"}]
