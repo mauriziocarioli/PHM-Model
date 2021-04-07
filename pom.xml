@@ -4,14 +4,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.health-insurance</groupId>
   <artifactId>PHM-Model</artifactId>
-  <version>3.0.0.redhat</version>
+  <version>3.0.1.redhat</version>
   <packaging>kjar</packaging>
   <name>PHM-Model</name>
   <description>PHM domain model</description>
   <url>https://developers.redhat.com/blog/2020/02/19/designing-an-event-driven-business-process-at-scale-a-health-management-example-part-1/</url>
   <properties>
     <version.jackson>2.11.2</version.jackson>
-    <version.org.kie>7.51.0.Final</version.org.kie>
+    <version.org.kie>7.48.0.Final-redhat-00006</version.org.kie>
   </properties>
   <dependencies>
     <dependency>
